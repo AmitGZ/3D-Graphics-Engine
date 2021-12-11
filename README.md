@@ -2,7 +2,7 @@
 
 # Preview
 
-![Test Image 1](capture.png)
+![Test Image 1](ScreenCaps/capture.png)
 
 This is a Ray Casting Engine written in java,Ray casting is a rendering technique used in computer graphics and computational geometry. 
 It is capable of creating a three-dimensional perspective in a two-dimensional map by mathematically casting a ray to an object and then to the light source, by calculating the distance traveled and the luminance of the ray we can repeat the process for every pixel on the screen and create an image.
